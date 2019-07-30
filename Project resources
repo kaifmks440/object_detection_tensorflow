@@ -2,3 +2,10 @@ Click on this link below for project resources.
 
 https://drive.google.com/open?id=1EAnZa5TCSvaIEJbm8hpj39ArKSlvLVwn
 
+
+In this project  object_detection_webcam.py    run on spyder and other python enviornment using command
+
+base env>cd C:\Users\kaifm\Desktop\object detection\Tensorflow1\models\research\object_detection
+
+base env\ C:\Users\kaifm\Desktop\object detection\Tensorflow1\models\research\object_detection> spyder object_detection_webcam.py
+
